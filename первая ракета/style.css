@@ -1,0 +1,78 @@
+header{background-color: rgba(42, 42, 174, 0.56);
+    display: flex}
+    img{padding: 10px;}
+    a{color: azure;
+        list-style: none;
+        text-decoration: none;
+    }
+    header {
+        background-color: rgba(42, 42, 174, 0.56);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+      }
+      
+      .logo {
+        position: absolute;
+        left: 10px;
+      }
+      
+      .text {
+        flex-grow: 1;
+      }
+      
+      h1, p {
+        color: azure;
+        margin: 0;
+      }
+      
+      h1 {
+        font-size: 50px;
+      }
+      
+      
+    .info p{
+       margin: 10px 50px;
+        
+        background-color: rgba(0, 0, 0, 0.141);
+    }
+    .raceta{
+      display: flex;
+      justify-content: center;
+    }
+    ul{display: flex;
+    background-color:rgba(42, 42, 174, 0.56);    justify-content: space-around;}
+    li{padding: 15px;
+    font-size: 25px;
+    list-style: none;
+    }
+    p{font-size: 30px;}
+    header h1{font-size: 100px; margin: 0;}
+  
+    body {
+        background-image: url(g.jpg);
+        background-attachment: fixed;}
+        .info{background-color:rgba(42, 42, 174, 0.56);
+        text-align: center;}
+        .footer-img{
+            text-align: center;
+            margin-left: 50px;
+            padding-top: 20px;
+           
+           }
+           h6{color: azure;
+            font-size: 20px;
+          margin: 0;}
+           .footer-text{
+             display: flex;
+             align-items: center;
+               justify-content: space-around;
+               margin: 0;
+               color: azure;
+               
+           }
+           footer{
+            background-color: rgb(12, 2, 52);
+   margin-top: 10px;
+           }
